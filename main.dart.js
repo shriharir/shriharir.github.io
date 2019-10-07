@@ -47177,7 +47177,7 @@ t=F.aY(a,!1).a.a
 if(typeof t!=="number")return t.F()
 t=t<768?36:45
 return new T.bO(new V.at(10,10,10,10),T.QB(s,s,C.aJ,!0,Q.m0(H.d([l,u,Q.m0(s,m.pO(new Q.B(o),p,t)," Solutions")],[Q.p8]),n,s),C.aI,s,1),s)},
-uP:function(a){var u=null,t="B2B & B2c Products and Services",s=F.aY(a,!1).a.a
+uP:function(a){var u=null,t="B2B & B2C Products and Services",s=F.aY(a,!1).a.a
 if(typeof s!=="number")return s.F()
 if(s<768)s=t
 else{s=P.jU(" f")
@@ -47204,8 +47204,8 @@ L:function(a){var u=this,t=null,s="ProductSans",r=4286939548
 return V.S4(M.cO(t,T.b5(H.d([new K.zn(C.o,new M.hD(u.f,1),30,70,t),new T.aW(t,10,t,t),L.aZ(u.c,A.aG(t,t,new Q.B(r),t,t,t,t,t,s,t,10,t,t,t,1.5,!0,1,t,t,t,t,t).m2(new Q.B(4282557941),18),t,t),L.aZ(u.d,A.aG(t,t,new Q.B(r),t,t,t,t,t,s,t,10,t,t,t,1.5,!0,1,t,t,t,t,t).f0(15),t,t),new T.aW(t,10,t,t),L.aZ(u.e,A.aG(t,t,new Q.B(r),t,t,t,t,t,s,t,10,t,t,t,1.5,!0,1,t,t,t,t,t).m2(C.aG,12),C.aI,t)],[N.X]),C.l,C.t,C.n),t,t,t,t,350,new V.at(15,15,15,15),t,t,300),C.aD,0,new V.at(10,10,10,10))},
 gap:function(a){return this.c}}
 G.p4.prototype={
-L:function(a){var u="Divya Ramachandran",t="Divya brings deep multi-disciplinary expertise in Accounting, Insurance and Taxation. She is a commerce graduate with an MBA in Finance. In her spare time, she volunteers in public schools teaching music to kids.",s="assets/images/team_divya.jpeg",r=[V.p3],q=[N.X]
-return T.b5(H.d([new A.l5("Team",C.d9,null),new B.fS(T.bA(H.d([T.b5(H.d([T.bA(C.a.l(this.pg(),H.d([V.uO("CEO",s,t,u)],r)),C.l,C.t,C.n)],q),C.l,C.t,C.n)],q),C.l,C.a5,C.n),T.bA(H.d([T.b5(this.pg(),C.l,C.t,C.n),T.b5(H.d([V.uO("CEO",s,t,u)],r),C.l,C.t,C.n)],q),C.l,C.a5,C.n),T.b5(C.a.l(this.pg(),H.d([V.uO("CEO",s,t,u)],r)),C.l,C.t,C.n),null)],q),C.l,C.t,C.n)},
+L:function(a){var u="Divya Ramachandran",t="Founder and CEO",s="Divya brings deep multi-disciplinary expertise in Accounting, Insurance and Taxation. She is a commerce graduate with an MBA in Finance. In her spare time, she volunteers in public schools teaching music to kids.",r="assets/images/team_divya.jpeg",q=[V.p3],p=[N.X]
+return T.b5(H.d([new A.l5("Team",C.d9,null),new B.fS(T.bA(H.d([T.b5(H.d([T.bA(C.a.l(H.d([V.uO(t,r,s,u)],q),this.pg()),C.l,C.t,C.n)],p),C.l,C.t,C.n)],p),C.l,C.a5,C.n),T.bA(H.d([T.b5(H.d([V.uO(t,r,s,u)],q),C.l,C.t,C.n),T.b5(this.pg(),C.l,C.t,C.n)],p),C.l,C.a5,C.n),T.b5(C.a.l(H.d([V.uO(t,r,s,u)],q),this.pg()),C.l,C.t,C.n),null)],p),C.l,C.t,C.n)},
 pg:function(){return H.d([V.uO("Founder & Technologist","assets/images/team_sudip_simha.jpeg","Focused professional having excellent technical and communication skills, and offering 6 years of experience in Computer industry. Proficient at writing code in various languages, feature development and implementation. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.","Sudip Simha"),V.uO("Data Analyst","assets/images/team_deepthi_srihari.jpeg","Deepthi is an electronics engineer with more than 14 years of experience in designing Datacom and Telecom equipments. She has as a Hardware Designer at Motorola and Cisco  Currently, she works as Data Analyst with Biz Shoulder.","Deepthi Srihari")],[V.p3])}}
 V.Hk.prototype={}
 B.fS.prototype={
